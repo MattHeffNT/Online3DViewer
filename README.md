@@ -5,7 +5,7 @@
 [![DeepScan grade](https://deepscan.io/api/teams/16586/projects/19893/branches/524595/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=16586&pid=19893&bid=524595)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/kovacsv/Online3DViewer.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/kovacsv/Online3DViewer/context:javascript)
 
-Online 3D Viewer (https://3dviewer.net) is a free and open source web solution to visualize and explore 3D models right in your browser. This repository contains the source code of the website and the library behind it.
+Indigital branding edit: https://mattheffnt.github.io/Online3DViewer/
 
 ## Example
 
@@ -17,13 +17,13 @@ Online 3D Viewer (https://3dviewer.net) is a free and open source web solution t
 
 The repository is separated into two parts. See more information in the [Developer Documentation](https://github.com/kovacsv/Online3DViewer/wiki).
 
-* **Online 3D Viewer Website**: Source code of the web solution with all of the pages and functions.
-* **Online 3D Viewer Engine**: Source code of the library to visualize models easily.
+- **Online 3D Viewer Website**: Source code of the web solution with all of the pages and functions.
+- **Online 3D Viewer Engine**: Source code of the library to visualize models easily.
 
 ## Supported file formats
 
-* **Import**: obj, 3ds, stl, ply, gltf, off, 3dm, fbx, dae, wrl, 3mf, ifc.
-* **Export**: obj, stl, ply, gltf, off, 3dm.
+- **Import**: obj, 3ds, stl, ply, gltf, off, 3dm, fbx, dae, wrl, 3mf, ifc.
+- **Export**: obj, stl, ply, gltf, off, 3dm.
 
 ## Features
 
